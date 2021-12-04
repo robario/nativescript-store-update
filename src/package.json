@@ -46,10 +46,6 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/chronogolf/nativescript-store-update",
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "@nativescript/core": "~7.0.0",
-    "@nativescript/appversion": "~2.0.0"
-  },
   "devDependencies": {
     "@angular/core": "~10.1.0",
     "format": "^0.2.2",
